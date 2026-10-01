@@ -10,17 +10,19 @@
 
 <br>
 
-### </> About Me
+<!-- ══════════════════════════════════════ ABOUT ME ══════════════════════════════════════ -->
 
-\`\`\`
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">&nbsp; About Me</h2>
+
+```yaml
 name: David Christian Golden Mahaviro
-location: Malang, Indonesia
-education: Computer Science (Intelligent Systems) | BINUS University
-focus: Artificial Intelligence & Full-Stack Development
+location: Indonesia 🇮🇩
+education: Computer Science | BINUS University
+semester: 5
+focus: AI Development & Web Development
 currently_learning: Advanced Computer Vision, NLP, & Next.js Ecosystem
 fun_fact: I turn complex ideas into seamless products 🚀 -> 💻
-\`\`\`
-
+```
 ### 🔌 Connect With Me
 
 <div align="center">
@@ -69,11 +71,19 @@ fun_fact: I turn complex ideas into seamless products 🚀 -> 💻
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidhoky&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
-### 📈 Contribution Graph
+<!-- ══════════════════════════════════════ GITHUB STATS ══════════════════════════════════════ -->
 
-<div align="center">
- <img src="[https://github-readme-activity-graph.vercel.app/graph?username=davidhoky&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=3d59a1&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=davidhoky&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=3d59a1&area=true&hide_border=true)" width="100%" />
-</div>
+<h2>📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=davidhoky&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=0ea5e9&title_color=0ea5e9&text_color=c9d1d9" alt="GitHub Stats" />
+  &nbsp;
+  <img width="48%" src="https://streak-stats.demolab.com?user=davidhoky&theme=tokyonight&hide_border=true&background=0D1117&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=c9d1d9&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidhoky&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=c9d1d9" alt="Top Languages" />
+</p>
 
 ### 🐍 Contribution Snake
 
