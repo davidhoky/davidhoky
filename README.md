@@ -1,7 +1,14 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20David%20Christian&fontSize=50&desc=AI%20Developer%20|%20Full-Stack%20Software%20Engineer&descAlignY=75" width="100%" />
+  <!-- Banner Header Gradasi Ungu ke Pink -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9D50BB,F24645&height=250&section=header&text=Hi,%20I'm%20David%20Christian&fontSize=50&desc=AI%20Developer%20|%20Full-Stack%20Software%20Engineer&descAlignY=75" width="100%" />
 </div>
+
+<div align="center">
+  <!-- Animasi Typing Text -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=AI+Developer;Web+Developer;Computer+Science+Student;Let's+Connect+and+Build+Together" alt="Typing Animation" />
+</div>
+
+<br>
 
 ### </> About Me
 
@@ -11,7 +18,7 @@ location: Malang, Indonesia
 education: Computer Science (Intelligent Systems) | BINUS University
 focus: Artificial Intelligence & Full-Stack Development
 currently_learning: Advanced Computer Vision, NLP, & Next.js Ecosystem
-fun_fact: "I turn complex ideas into seamless products 🚀"
+fun_fact: I turn complex ideas into seamless products 🚀 -> 💻
 \`\`\`
 
 ### 🔌 Connect With Me
@@ -49,7 +56,8 @@ fun_fact: "I turn complex ideas into seamless products 🚀"
       <td align="center"><img src="https://skillicons.dev/icons?i=python,cpp&perline=2" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&perline=3" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=sqlite,supabase&perline=2" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vercel,figma&perline=2" /></td>
+      <!-- VS Code ditambahkan di baris bawah ini -->
+      <td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma&perline=3" /></td>
     </tr>
   </table>
 </div>
@@ -64,14 +72,13 @@ fun_fact: "I turn complex ideas into seamless products 🚀"
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidhoky&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=3d59a1&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidhoky&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
 
 ### 🐍 Contribution Snake
 
 <div align="center">
-  
-  <img src="https://raw.githubusercontent.com/davidhoky/davidhoky/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/davidhoky/davidhoky/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ### 💬 Random Dev Quote
@@ -81,6 +88,6 @@ fun_fact: "I turn complex ideas into seamless products 🚀"
 </div>
 
 <div align="center">
-  <!-- Footer Banner Otomatis -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" />
+  <!-- Banner Footer Gradasi Ungu ke Pink -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9D50BB,F24645&height=100&section=footer" width="100%" />
 </div>
