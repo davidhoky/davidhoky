@@ -12,7 +12,7 @@
 
 ### </> About Me
 
-\`\`\`yaml
+\`\`\`
 name: David Christian Golden Mahaviro
 location: Malang, Indonesia
 education: Computer Science (Intelligent Systems) | BINUS University
@@ -72,7 +72,7 @@ fun_fact: I turn complex ideas into seamless products 🚀 -> 💻
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidhoky&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+ <img src="[https://github-readme-activity-graph.vercel.app/graph?username=davidhoky&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=3d59a1&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=davidhoky&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=3d59a1&area=true&hide_border=true)" width="100%" />
 </div>
 
 ### 🐍 Contribution Snake
